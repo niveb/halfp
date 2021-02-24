@@ -1,0 +1,98 @@
+#lblWithPhoto {
+    font-weight: normal;
+    margin-right: 20px;
+}
+
+.resultsdesc {
+    width: 100%;
+    text-align: right;
+    font-size: 12px;
+    color: #999999;
+    padding: 2px;
+    margin-top: -10px;
+}
+.sidebarbutton:active {
+    background-color: #2e6ba6;
+}
+
+.sidebarbutton {
+    background-color: #65829e;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    margin: auto;
+}
+
+.sidebar input[type=number] {
+    width: 60px;
+}
+.sidebar input[type=text] {
+    width: 100px;
+}
+
+.sidebarheader {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #d4d4d4;
+    padding: 5px;
+    border-bottom: 2px dashed #c5c5c5;
+    cursor: pointer;
+}
+
+.sidebar {
+    color: #3d464f;
+    word-spacing: 5px;
+    background-color: #e5e5e5;
+    border-bottom: 3px solid #d5d5d5;
+    margin: 20px;
+}
+
+.sidebarcontent {
+    padding: 20px;
+    padding-top: 10px;
+    overflow: hidden;
+    height: 0;
+    display: none;
+}
+
+.searchresults {
+    background: #ffffff;
+    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 20px;
+    border: 1px solid #eeeeee;
+}
+
+.searchresult {
+    display: inline-block;
+    margin: 5px;
+    background-color: #f0f0ff;
+    border-radius: 5px;
+    border: 1px solid #d9d9ff;
+    width: 170px;
+    height: 90px;
+    overflow: hidden;
+    font-size: 14px;
+    padding: 3px;
+}
+.searchresult:hover {
+    background-color: #fffbf0;
+}
+.searchresult img {
+    float: left;
+    height: 80px;
+    width: 80px;
+}
+
+.profileinfo {
+    height: 80px;
+    overflow: hidden;
+    padding: 2px;
+    text-overflow: ellipsis;
+}

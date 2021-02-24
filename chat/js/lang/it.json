@@ -1,0 +1,12 @@
+{
+    "Error" : "Errore",
+    "BlockUserConfirm" : "Si desidera veramente bloccare questo utente?",
+    "DeleteChatConfirm" : "Sicuro? Cancellando la chat eliminerai tutti i messaggi anche per ",
+    "EnableJS" : "Si prega di abilitare Javascript",
+    "SelectChat" : "Seleziona un contatto per iniziare a chattare",
+    "Block": "Blocca",
+    "Unblock" : "Sblocca",
+    "EnterMessage" : "Inserire un messaggio qui...",
+    "Send" : "Invia",
+    "PressEnter" : "Premere invio per inviare"
+}

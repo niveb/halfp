@@ -1,0 +1,12 @@
+{
+    "Error" : "Error",
+    "BlockUserConfirm" : "Do you really want to block this user?",
+    "DeleteChatConfirm" : "Are you sure? Closing the chat will delete all messages also for ",
+    "EnableJS" : "Please enable Javascript",
+    "SelectChat" : "Select a chat to start",
+    "Block": "Block",
+    "Unblock" : "Unblock",
+    "EnterMessage" : "Enter message here...",
+    "Send" : "Send",
+    "PressEnter" : "Press enter to send"
+}

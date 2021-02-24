@@ -1,0 +1,8 @@
+<IfModule mod_headers.c>
+    Header edit Set-Cookie ^(.*)$ $1;HttpOnly;SameSite=Strict
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteRule ^(.*)$ index.php?m=$1 [QSA,L]
+</IfModule>

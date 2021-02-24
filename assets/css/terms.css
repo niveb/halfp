@@ -1,0 +1,53 @@
+@import url('/assets/css/gfont.css');
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: "Railway Mono", "Liberation Mono", Consolas, monospace;
+    color: rgb(55,15,15);
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container,.row {
+    height: 100%;
+}
+
+#infobox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: auto;
+}
+
+.message {
+    margin-top: 10%;
+    background-color: #efeeee;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    border-radius: 5px;
+    color: #000000;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.terms {
+    text-align: left;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    overflow-y: scroll;
+    height: 400px;
+    width: 600px;
+    font-size: 16px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
